@@ -7,5 +7,13 @@
 # print(type(b))
 # print(type(c))
 
-name = 
-Name = 
+# name = "A"
+# Name = "A"
+# NAME = "A"
+# na54me="a"
+
+
+
+
+
+
