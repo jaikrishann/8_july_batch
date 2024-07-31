@@ -12,7 +12,7 @@
 # lst1.extend(lst2)
 # print(lst1)
 
-# lst = ["apple","banana","cherry"]
+# lst = ["apple","banana","cherry",'apple']
 # lst.remove("apple")   
 # print(lst)
 
@@ -45,7 +45,7 @@
 # print(lst)
 
 
-## join list 
+## join list xccccccccccccccccccccccccn ccccccccccccccccccc8888888
 
 # lst1 = ["a",'b',"c"]
 # lst2 = ["z","x","d"]
